@@ -1,0 +1,13 @@
+creating branch in github
+
+git checkout -b "branchname"
+
+git add.
+git commit -m "anymessage"
+git push
+copy paste url of push git 
+
+to paste other code in github write :
+git clone "url" 
+
+
